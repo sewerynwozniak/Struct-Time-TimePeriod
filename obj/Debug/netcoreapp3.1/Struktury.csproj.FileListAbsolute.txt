@@ -1,0 +1,13 @@
+C:\Users\1990s\source\repos\Struktury\bin\Debug\netcoreapp3.1\Struktury.exe
+C:\Users\1990s\source\repos\Struktury\bin\Debug\netcoreapp3.1\Struktury.deps.json
+C:\Users\1990s\source\repos\Struktury\bin\Debug\netcoreapp3.1\Struktury.runtimeconfig.json
+C:\Users\1990s\source\repos\Struktury\bin\Debug\netcoreapp3.1\Struktury.runtimeconfig.dev.json
+C:\Users\1990s\source\repos\Struktury\bin\Debug\netcoreapp3.1\Struktury.dll
+C:\Users\1990s\source\repos\Struktury\bin\Debug\netcoreapp3.1\Struktury.pdb
+C:\Users\1990s\source\repos\Struktury\obj\Debug\netcoreapp3.1\Struktury.csprojAssemblyReference.cache
+C:\Users\1990s\source\repos\Struktury\obj\Debug\netcoreapp3.1\Struktury.AssemblyInfoInputs.cache
+C:\Users\1990s\source\repos\Struktury\obj\Debug\netcoreapp3.1\Struktury.AssemblyInfo.cs
+C:\Users\1990s\source\repos\Struktury\obj\Debug\netcoreapp3.1\Struktury.csproj.CoreCompileInputs.cache
+C:\Users\1990s\source\repos\Struktury\obj\Debug\netcoreapp3.1\Struktury.dll
+C:\Users\1990s\source\repos\Struktury\obj\Debug\netcoreapp3.1\Struktury.pdb
+C:\Users\1990s\source\repos\Struktury\obj\Debug\netcoreapp3.1\Struktury.genruntimeconfig.cache
